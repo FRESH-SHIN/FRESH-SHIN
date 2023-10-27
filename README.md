@@ -30,6 +30,9 @@
 #### 技育展2023
  - [バックエンド](https://github.com/kattakke/backend)
  - [Swaggerエンドポイント](https://github.com/kattakke/backend)
+
+#### LT会
+ - [CTFから学ぶJWTセキュリティ入門](https://docs.google.com/presentation/d/1itwvXrY8SFh2HJgLfylXFbT_h7fxnJLndXshRD70u0k/edit?usp=sharing)
 <!--
 **FRESH-SHIN/FRESH-SHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
