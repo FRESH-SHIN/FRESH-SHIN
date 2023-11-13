@@ -24,15 +24,18 @@
  - 📚海外留学を通じて見聞を広めたいです！
 
 ### プロジェクト紹介
-#### 個人開発
- - [ブロックチェーンを作ってみました](https://github.com/FRESH-SHIN/P2PBlockchain)
- - [お粗末ですがレイトレーシングも作ってみました](https://github.com/FRESH-SHIN/RayTracing)
-#### 技育展2023
- - [バックエンド](https://github.com/kattakke/backend)
- - [Swaggerエンドポイント](https://github.com/kattakke/backend)
 
 #### LT会
  - [CTFから学ぶJWTセキュリティ入門](https://docs.google.com/presentation/d/1itwvXrY8SFh2HJgLfylXFbT_h7fxnJLndXshRD70u0k/edit?usp=sharing)
+ - [Swaggerを使ってバックエンドを書こう](https://docs.google.com/presentation/d/1eXipLdID5R0AhAQ2KLQNvCTL6c9ifEs50Z9pvmXKTwI/edit?usp=sharing)
+#### 個人開発
+ - [ブロックチェーンを作ってみました](https://github.com/FRESH-SHIN/P2PBlockchain)
+ - [お粗末ですがレイトレーシングも作ってみました](https://github.com/FRESH-SHIN/RayTracing)
+#### 技育展 2023
+ - [バックエンド](https://github.com/kattakke/backend)
+ - [Swaggerエンドポイント](https://github.com/kattakke/backend)
+#### JPHACKS 2023
+ - [SP_2305](https://github.com/jphacks/SP_2305)
 <!--
 **FRESH-SHIN/FRESH-SHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
