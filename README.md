@@ -28,9 +28,11 @@
 #### LT会
  - [CTFから学ぶJWTセキュリティ入門](https://docs.google.com/presentation/d/1itwvXrY8SFh2HJgLfylXFbT_h7fxnJLndXshRD70u0k/edit?usp=sharing)
  - [Swaggerを使ってバックエンドを書こう](https://docs.google.com/presentation/d/1eXipLdID5R0AhAQ2KLQNvCTL6c9ifEs50Z9pvmXKTwI/edit?usp=sharing)
+ - [νラボのインフラを設計してみて](https://docs.google.com/presentation/d/1dZVGcYBQG7ZVCUMTDtwmJDEnpDMmIqmQfepPsVMpRj4/edit?usp=sharing)
 #### 個人開発
  - [ブロックチェーンを作ってみました](https://github.com/FRESH-SHIN/P2PBlockchain)
  - [お粗末ですがレイトレーシングも作ってみました](https://github.com/FRESH-SHIN/RayTracing)
+ - [DiscordからSesameの制御](https://github.com/FRESH-SHIN/DiscordSesameBot)
 #### 技育展 2023
  - [バックエンド](https://github.com/kattakke/backend)
  - [Swaggerエンドポイント](https://github.com/kattakke/backend)
