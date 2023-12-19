@@ -29,6 +29,9 @@
  - [CTFから学ぶJWTセキュリティ入門](https://docs.google.com/presentation/d/1itwvXrY8SFh2HJgLfylXFbT_h7fxnJLndXshRD70u0k/edit?usp=sharing)
  - [Swaggerを使ってバックエンドを書こう](https://docs.google.com/presentation/d/1eXipLdID5R0AhAQ2KLQNvCTL6c9ifEs50Z9pvmXKTwI/edit?usp=sharing)
  - [νラボのインフラを設計してみて](https://docs.google.com/presentation/d/1dZVGcYBQG7ZVCUMTDtwmJDEnpDMmIqmQfepPsVMpRj4/edit?usp=sharing)
+### 勉強会
+ - [Goハンズオン](https://docs.google.com/presentation/d/1sCqizmZ2iKSC1JjV7mHJDspymdp7T4JGmRsQC0Fz1JI/edit?usp=sharing)
+ - [Goで学ぶネットワーク](https://docs.google.com/presentation/d/1x0SZAG9Wd77Hx-8RJMtkqE_ixppp9cX-tNK_EzP0LzU/edit?usp=sharing)
 #### 個人開発
  - [ブロックチェーンを作ってみました](https://github.com/FRESH-SHIN/P2PBlockchain)
  - [お粗末ですがレイトレーシングも作ってみました](https://github.com/FRESH-SHIN/RayTracing)
