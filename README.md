@@ -41,6 +41,9 @@
  - [Swaggerエンドポイント](https://github.com/kattakke/backend)
 #### JPHACKS 2023
  - [SP_2305](https://github.com/jphacks/SP_2305)
+#### Qiita記事
+ - [PPPoEとIPoEを同時に使いたい(IX2215)](https://qiita.com/FRESH-SHIN/items/51368286d079b66a4c06)
+ - [GitHub Self-hosted RunnerがIPv6のせいで失敗する](https://qiita.com/FRESH-SHIN/items/04b6ac741e586b23a8b3)
 <!--
 **FRESH-SHIN/FRESH-SHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
