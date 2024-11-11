@@ -46,6 +46,7 @@
 #### Qiita記事
  - [PPPoEとIPoEを同時に使いたい(IX2215)](https://qiita.com/FRESH-SHIN/items/51368286d079b66a4c06)
  - [GitHub Self-hosted RunnerがIPv6のせいで失敗する](https://qiita.com/FRESH-SHIN/items/04b6ac741e586b23a8b3)
+ - [スプラトゥーンで勝つために他のISPとピアリングした話](https://qiita.com/FRESH-SHIN/items/f5b26b9c4bfe491c0d0d)
  - [ProxmoxVEで仮想基盤を構築してみた話](https://qiita.com/FRESH-SHIN/items/c269a2efef9fb31c2f82)
 <!--
 **FRESH-SHIN/FRESH-SHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
